@@ -1,0 +1,269 @@
+﻿生成启动时间为 2015/8/20 11:03:55。
+     1>项目“F:\newSDK\newSDK\newSDK.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TC /errorReport:prompt  /D _CRT_SECURE_NO_WARNINGS 3DES.c cJSON.c config.c connect.c innerInterface.c ipaynowSDK.c iso8583.c log.c trans.c
+         3DES.c
+     1>3DES.c(906): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>3DES.c(921): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>3DES.c(1008): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>3DES.c(1018): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>3DES.c(1024): warning C4244: “=”: 从“__int64”转换到“char”，可能丢失数据
+     1>3DES.c(1034): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>3DES.c(1090): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>3DES.c(1095): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>3DES.c(1103): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>3DES.c(1118): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>3DES.c(1123): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+     1>3DES.c(1127): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>3DES.c(1143): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+         cJSON.c
+     1>cJSON.c(143): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+     1>cJSON.c(259): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>cJSON.c(481): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+     1>cJSON.c(624): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+         config.c
+     1>config.c(46): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>config.c(87): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>config.c(106): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>config.c(183): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+         connect.c
+         innerInterface.c
+     1>innerInterface.c(322): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(327): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(342): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(355): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(360): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(362): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(441): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(446): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(463): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(467): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(510): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(515): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(529): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(537): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(550): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(592): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(597): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(613): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(626): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(670): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(675): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(690): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(703): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(708): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(710): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(793): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(798): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(815): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(819): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(851): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(856): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(870): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(878): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(891): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(923): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(928): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(944): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(957): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(999): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1028): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1033): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1044): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1060): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1067): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1085): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1092): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1101): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1109): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1117): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1125): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1139): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1183): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1211): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1216): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1226): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1242): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1248): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1266): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1273): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1285): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1293): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1301): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1309): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1323): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1361): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1389): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1394): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1404): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1420): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1426): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1444): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1451): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1460): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1468): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1476): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1484): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1499): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1502): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1541): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1569): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1574): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1584): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1600): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1606): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1624): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1631): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1640): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1648): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1656): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1664): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1679): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1682): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1721): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1749): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1754): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1764): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1780): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1786): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1804): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1811): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1820): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1828): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1836): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1859): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1862): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1910): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1938): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1943): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1953): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1969): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1975): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(1993): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2000): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2009): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2017): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2025): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2033): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2048): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2051): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2090): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2118): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2123): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2133): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2149): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2155): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2173): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2180): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2208): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2216): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2230): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2267): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2295): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2300): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2310): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2326): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2332): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2350): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2357): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2366): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2374): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2382): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2390): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2405): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2408): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2447): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2475): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2480): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2490): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2506): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2512): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2530): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2537): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2546): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2554): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2562): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2570): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2585): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2588): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2627): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2655): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2660): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2670): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2686): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2692): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2710): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2717): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2726): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2734): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2742): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2750): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2765): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2768): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>innerInterface.c(2904): warning C4047: “==”:“int”与“void *”的间接级别不同
+     1>innerInterface.c(2936): warning C4090: “函数”: 不同的“const”限定符
+     1>innerInterface.c(2936): warning C4267: “函数”: 从“size_t”转换到“unsigned short”，可能丢失数据
+     1>innerInterface.c(2940): warning C4090: “函数”: 不同的“const”限定符
+     1>innerInterface.c(2940): warning C4267: “函数”: 从“size_t”转换到“unsigned short”，可能丢失数据
+     1>innerInterface.c(2944): warning C4090: “函数”: 不同的“const”限定符
+     1>innerInterface.c(2944): warning C4267: “函数”: 从“size_t”转换到“unsigned short”，可能丢失数据
+     1>innerInterface.c(2967): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+         ipaynowSDK.c
+         iso8583.c
+     1>iso8583.c(383): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>iso8583.c(463): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>iso8583.c(464): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>iso8583.c(465): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>iso8583.c(483): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>iso8583.c(484): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>iso8583.c(485): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>iso8583.c(527): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>iso8583.c(584): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>iso8583.c(607): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>iso8583.c(623): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>iso8583.c(640): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>iso8583.c(650): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>iso8583.c(659): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+         log.c
+         trans.c
+     1>trans.c(113): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(117): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(121): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(125): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(132): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(139): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(309): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(313): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(317): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(321): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(328): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(435): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(439): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(443): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(447): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(454): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(563): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(571): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(578): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(597): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(607): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>trans.c(745): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\newSDK\x64\Release\ipaynowSDK.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\newSDK\x64\Release\ipaynowSDK.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\newSDK\x64\Release\ipaynowSDK.lib" /MACHINE:X64 /DLL x64\Release\3DES.obj
+         x64\Release\cJSON.obj
+         x64\Release\config.obj
+         x64\Release\connect.obj
+         x64\Release\innerInterface.obj
+         x64\Release\ipaynowSDK.obj
+         x64\Release\iso8583.obj
+         x64\Release\log.obj
+         x64\Release\trans.obj
+            正在创建库 F:\newSDK\x64\Release\ipaynowSDK.lib 和对象 F:\newSDK\x64\Release\ipaynowSDK.exp
+         正在生成代码
+         已完成代码的生成
+         newSDK.vcxproj -> F:\newSDK\x64\Release\ipaynowSDK.dll
+     1>已完成生成项目“F:\newSDK\newSDK\newSDK.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.12

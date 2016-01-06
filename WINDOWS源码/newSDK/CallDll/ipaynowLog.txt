@@ -1,0 +1,132 @@
+[2015-08-19 19:16:25] ===== Enter Json Interface Function ====
+[2015-08-19 19:16:25] start auto sign up process.
+[2015-08-19 19:16:25] start auto sign up process end.
+[2015-08-19 19:16:25] Enter trans process.
+[2015-08-19 19:16:27] End trans process. success.
+[2015-08-19 19:16:27] ===== End Json Interface Function   ====
+[2015-08-19 19:16:40] ===== Enter Json Interface Function ====
+[2015-08-19 19:16:40] start auto sign up process.
+[2015-08-19 19:16:40] start auto sign up process end.
+[2015-08-19 19:16:40] Enter trans process.
+[2015-08-19 19:16:41] End trans process. success.
+[2015-08-19 19:16:41] ===== End Json Interface Function   ====
+[2015-08-19 19:21:26] ===== Enter Json Interface Function ====
+[2015-08-19 19:21:26] start auto sign up process.
+[2015-08-19 19:21:26] start auto sign up process end.
+[2015-08-19 19:21:26] Enter trans process.
+[2015-08-19 19:21:28] End trans process. success.
+[2015-08-19 19:21:28] ===== End Json Interface Function   ====
+[2015-08-19 19:21:35] ===== Enter Json Interface Function ====
+[2015-08-19 19:21:35] start auto sign up process.
+[2015-08-19 19:21:35] start auto sign up process end.
+[2015-08-19 19:21:35] Enter trans process.
+[2015-08-19 19:21:36] End trans process. success.
+[2015-08-19 19:21:36] ===== End Json Interface Function   ====
+[2015-08-19 19:21:50] ===== Enter Json Interface Function ====
+[2015-08-19 19:21:50] start auto sign up process.
+[2015-08-19 19:21:50] start auto sign up process end.
+[2015-08-19 19:21:50] Enter trans process.
+[2015-08-19 19:21:51] End trans process. success.
+[2015-08-19 19:21:51] ===== End Json Interface Function   ====
+[2015-08-19 19:21:57] ===== Enter Json Interface Function ====
+[2015-08-19 19:21:57] start auto sign up process.
+[2015-08-19 19:21:57] start auto sign up process end.
+[2015-08-19 19:21:57] Enter trans process.
+[2015-08-19 19:21:59] End trans process. success.
+[2015-08-19 19:21:59] ===== End Json Interface Function   ====
+[2015-08-19 19:22:04] ===== Enter Json Interface Function ====
+[2015-08-19 19:22:04] start auto sign up process.
+[2015-08-19 19:22:04] start auto sign up process end.
+[2015-08-19 19:22:04] Enter trans process.
+[2015-08-19 19:22:06] End trans process. success.
+[2015-08-19 19:22:06] ===== End Json Interface Function   ====
+[2015-08-19 19:22:10] ===== Enter Json Interface Function ====
+[2015-08-19 19:22:10] start auto sign up process.
+[2015-08-19 19:22:10] start auto sign up process end.
+[2015-08-19 19:22:10] Enter trans process.
+[2015-08-19 19:22:12] End trans process. success.
+[2015-08-19 19:22:12] ===== End Json Interface Function   ====
+[2015-08-19 19:22:19] ===== Enter Json Interface Function ====
+[2015-08-19 19:22:19] start auto sign up process.
+[2015-08-19 19:22:19] start auto sign up process end.
+[2015-08-19 19:22:19] Enter trans process.
+[2015-08-19 19:22:20] End trans process. success.
+[2015-08-19 19:22:20] ===== End Json Interface Function   ====
+[2015-08-19 19:22:31] ===== Enter Json Interface Function ====
+[2015-08-19 19:22:31] start auto sign up process.
+[2015-08-19 19:22:31] start auto sign up process end.
+[2015-08-19 19:22:31] Enter trans process.
+[2015-08-19 19:22:32] End trans process. success.
+[2015-08-19 19:22:32] ===== End Json Interface Function   ====
+[2015-08-19 19:22:59] ===== Enter Json Interface Function ====
+[2015-08-19 19:22:59] start auto sign up process.
+[2015-08-19 19:22:59] start auto sign up process end.
+[2015-08-19 19:22:59] Enter trans process.
+[2015-08-19 19:23:00] End trans process. success.
+[2015-08-19 19:23:00] ===== End Json Interface Function   ====
+[2015-08-19 19:23:08] ===== Enter Json Interface Function ====
+[2015-08-19 19:23:08] start auto sign up process.
+[2015-08-19 19:23:08] start auto sign up process end.
+[2015-08-19 19:23:08] Enter trans process.
+[2015-08-19 19:23:10] End trans process. success.
+[2015-08-19 19:23:10] ===== End Json Interface Function   ====
+[2015-08-19 19:23:37] ===== Enter Json Interface Function ====
+[2015-08-19 19:23:37] start auto sign up process.
+[2015-08-19 19:23:37] start auto sign up process end.
+[2015-08-19 19:23:37] Enter trans process.
+[2015-08-19 19:23:41] End trans process. success.
+[2015-08-19 19:23:41] ===== End Json Interface Function   ====
+[2015-08-19 19:23:50] ===== Enter Json Interface Function ====
+[2015-08-19 19:23:50] start auto sign up process.
+[2015-08-19 19:23:50] start auto sign up process end.
+[2015-08-19 19:23:50] Enter trans process.
+[2015-08-19 19:23:51] End trans process. success.
+[2015-08-19 19:23:51] ===== End Json Interface Function   ====
+[2015-08-19 19:24:01] ===== Enter Json Interface Function ====
+[2015-08-19 19:24:01] start auto sign up process.
+[2015-08-19 19:24:01] start auto sign up process end.
+[2015-08-19 19:24:01] Enter trans process.
+[2015-08-19 19:24:02] End trans process. success.
+[2015-08-19 19:24:02] ===== End Json Interface Function   ====
+[2015-08-19 19:24:23] ===== Enter Json Interface Function ====
+[2015-08-19 19:24:23] start auto sign up process.
+[2015-08-19 19:24:23] start auto sign up process end.
+[2015-08-19 19:24:23] Enter trans process.
+[2015-08-19 19:24:23] End trans process. success.
+[2015-08-19 19:24:23] ===== End Json Interface Function   ====
+[2015-08-19 19:29:36] ===== Enter Json Interface Function ====
+[2015-08-19 19:29:36] start auto sign up process.
+[2015-08-19 19:29:36] start auto sign up process end.
+[2015-08-19 19:29:36] Enter trans process.
+[2015-08-19 19:29:38] trans process: trans mchTransId [31312321] , response code [00].
+[2015-08-19 19:29:38] End trans process. success.
+[2015-08-19 19:29:38] ===== End Json Interface Function   ====
+[2015-08-20 10:19:47] ===== Enter Json Interface Function ====
+[2015-08-20 10:19:47] start auto sign up process.
+[2015-08-20 10:19:47] start auto sign up process end.
+[2015-08-20 10:19:47] Start process [12] trans.
+[2015-08-20 10:19:47] Enter trans process.
+[2015-08-20 10:19:48] trans process: trans mchTransId [23131] , response code [00].
+[2015-08-20 10:19:48] End trans process. success.
+[2015-08-20 10:19:48] ===== End Json Interface Function   ====
+[2015-08-20 11:04:06] ===== Enter Json Interface Function ====
+[2015-08-20 11:04:06] start auto sign up process.
+[2015-08-20 11:04:06] start auto sign up process end.
+[2015-08-20 11:04:06] Start process [12] trans.
+[2015-08-20 11:04:06] Enter trans process.
+[2015-08-20 11:04:06] trans process: trans mchTransId [31312] , response code [94].
+[2015-08-20 11:04:06] start auto sign up process.
+[2015-08-20 11:04:06] sign up success.
+[2015-08-20 11:04:06] start auto sign up process end.
+[2015-08-20 11:04:08] trans process: trans mchTransId [31312] , response code [00].
+[2015-08-20 11:04:08] End trans process. success.
+[2015-08-20 11:04:08] ===== End Json Interface Function   ====
+[2016-01-06 20:59:28] ===== Enter Json Interface Function ====
+[2016-01-06 20:59:28] start auto sign up process.
+[2016-01-06 20:59:28] start auto sign up process end.
+[2016-01-06 20:59:28] Start process [19] trans.
+[2016-01-06 20:59:28] Enter trans process.
+[2016-01-06 20:59:33] trans process: trans mchTransId [] , response code [A0].
+[2016-01-06 20:59:33] start auto sign up process.
+[2016-01-06 20:59:33] sign up success.
+[2016-01-06 20:59:33] start auto sign up process end.

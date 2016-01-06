@@ -1,0 +1,8 @@
+[2015-08-19 19:42:23] =====Enter Json Interface Function====
+[2015-08-19 19:42:23] start auto sign up process.
+[2015-08-19 19:42:23] start auto sign up process end.
+[2015-08-19 19:42:23] Start process [12] trans.
+[2015-08-19 19:42:23] Enter trans process.
+[2015-08-19 19:42:24] trans process: trans mchTransId [dd] , response code [00].
+[2015-08-19 19:42:24] End trans process. success.
+[2015-08-19 19:42:24] =====End Json Interface Function  ====

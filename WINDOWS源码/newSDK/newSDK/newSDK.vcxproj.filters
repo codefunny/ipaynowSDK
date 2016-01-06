@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="8583pack">
+      <UniqueIdentifier>{7567936c-e4d3-44d9-85dc-f6195baf0028}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Connect">
+      <UniqueIdentifier>{de6c5f2c-3bad-4944-8343-ed5120dba63a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config">
+      <UniqueIdentifier>{23dfa16b-5a4f-44be-97a4-cf28af0de6ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="trans">
+      <UniqueIdentifier>{5c252909-12ed-48b8-9908-347bec7a6e4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ipaynowSDK">
+      <UniqueIdentifier>{c9262d7b-a84b-486f-8869-9e7802e5b57f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Interface">
+      <UniqueIdentifier>{e19b216d-3488-405f-9822-d6959ba83a57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cJOSN">
+      <UniqueIdentifier>{d2c61048-1236-41d4-a731-7394e2744a72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Log">
+      <UniqueIdentifier>{addf800b-a971-4330-9d1c-09e559a7a8ae}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="iso8583.h">
+      <Filter>8583pack</Filter>
+    </ClInclude>
+    <ClInclude Include="3DES.h">
+      <Filter>8583pack</Filter>
+    </ClInclude>
+    <ClInclude Include="connect.h">
+      <Filter>Connect</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>Config</Filter>
+    </ClInclude>
+    <ClInclude Include="trans.h">
+      <Filter>trans</Filter>
+    </ClInclude>
+    <ClInclude Include="cJSON.h">
+      <Filter>cJOSN</Filter>
+    </ClInclude>
+    <ClInclude Include="innerInterface.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="ipaynowSDK.h">
+      <Filter>ipaynowSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="log.h">
+      <Filter>Log</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="iso8583.c">
+      <Filter>8583pack</Filter>
+    </ClCompile>
+    <ClCompile Include="3DES.c">
+      <Filter>8583pack</Filter>
+    </ClCompile>
+    <ClCompile Include="connect.c">
+      <Filter>Connect</Filter>
+    </ClCompile>
+    <ClCompile Include="config.c">
+      <Filter>Config</Filter>
+    </ClCompile>
+    <ClCompile Include="trans.c">
+      <Filter>trans</Filter>
+    </ClCompile>
+    <ClCompile Include="cJSON.c">
+      <Filter>cJOSN</Filter>
+    </ClCompile>
+    <ClCompile Include="innerInterface.c">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="ipaynowSDK.c">
+      <Filter>ipaynowSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="log.c">
+      <Filter>Log</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
